@@ -13,8 +13,8 @@
 * Use a ternary operator to complete this task. Create a function named "_isRaining_". If it's true, print "_wet day - you need an umbrella_". If false, print "_dry day - leave your umbrella at home_".
 
 ### Loops 	
-* Use a loop to print the following sequence: _1, 2, 4, 8, 16, 32, 64, 128, 256_.
-* Use a loop to print the first five multiples of three.
+* Use a loop to get the following sequence _1, 2, 4, 8, 16, 32, 64, 128, 256_, concatenate each value to a string and return a string.
+* Use a loop to get the first five multiples of three. Concatenate each value to a string and return a string.
 
 ### Math 
 * Create a function named "_powerOf_" which takes an integer as an argument and returns the integer to the power of itself. You should use a Math Object to make the calculation.
