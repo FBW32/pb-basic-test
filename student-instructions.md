@@ -2,6 +2,7 @@
 ## Test Instructions 
 * Create an index.js file and work from there. 
 * Follow all of the instructions below to complete the test. 
+* Make sure that the names of your variables/functions match the names in the instructions below.
 * Remember to print all your solutions. 
 * Good luck!
 
