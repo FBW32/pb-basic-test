@@ -1,7 +1,7 @@
 # Test - Programming Basics 
 ## Test Instructions 
 * Work from the `index.js` file provided in this repository.
-* Follow all of the instructions below to complete the test. 
+* Follow all of the instructions below to complete the test. **Important**: Make sure that the names of your variables/functions match the names in the instructions below.
 * Remember to print all your solutions. 
 * Good luck!
 
