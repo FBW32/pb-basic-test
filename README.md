@@ -35,7 +35,7 @@
         ```
 
 ### Problem Solving 
-* Create a function named "_vowelCount_" that accepts a string as an argument. Check how many vowels the string contains, if any. Return the vowel count of the string 
+* Create a function named "_vowelCount_" that accepts a string as an argument. Check how many vowels the string contains, if any. Return the vowel count of the string. 
     > **Examples**: 
     - ```javascript
       vowelCount("hello") // 2
