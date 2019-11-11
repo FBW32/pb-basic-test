@@ -1,5 +1,6 @@
 # Test - Programming Basics 
 ## Test Instructions 
+* Work from the `index.js` file provided in this repository.
 * Follow all of the instructions below to complete the test. 
 * Remember to print all your solutions. 
 * Good luck!
