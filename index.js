@@ -1,12 +1,8 @@
-//  Add your answers here
+// Add answers here 
 
 
 
 
 
-
-
-
-
-// DO NOT edit below this line - editing will result in an AUTOMATIC FAIL
+// DO NOT EDIT below this line - This will result in an automatic fail
 module.exports = {nameOfCity, isDivisible, missingAngle, rainingToday, geometricalSequence, multiplesOfThree, powerOf, vowelCount};
