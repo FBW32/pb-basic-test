@@ -18,7 +18,7 @@ if((firstLetter==="LOS")||(firstLetter==="NEW")){
 /* #### 2. isDivisible?
 * Create a function named "_isDivisible_". The function should take an integer as an argument. If the integer is divisible by 100, then return true. If not, return false. **Examples**: _1 ➞ false_, _1000 ➞ true_, _100 ➞ true_. */
 //-------------------------##-----------------------------------
-function _isDivisible_(num){
+function isDivisible(num){
     if((num % 100) === 0){
         console.log(true);
     }else{
@@ -26,7 +26,7 @@ function _isDivisible_(num){
     }
 }
 
-_isDivisible_(1000); //true 
+isDivisible(1000); //true 
 //-------------------------##-----------------------------------
 /* #### 3. Missing Angle
 * Create a function named "_missingAngle_" which classifies the missing angle of a triangle as either acute, right or obtuse. 
@@ -37,7 +37,7 @@ _isDivisible_(1000); //true
     - 135°, 11° ➞ The third angle is "_acute_" 
     - 45°, 45° ➞ The third angle is a "_right angle_" */
 //-------------------------##-----------------------------------
-function _missingAngle_ (angle1,angle2){
+function missingAngle(angle1,angle2){
     angle3=180-(angle1+angle2);
     if(angle3<90){
         console.log(`${angle3} An acute angle is smaller than 90°`);
@@ -48,7 +48,7 @@ function _missingAngle_ (angle1,angle2){
 
     }
 }
-_missingAngle_(27,59); // expacted return [94 An obtuse angle is bigher than 90°]
+missingAngle(27,59); // expacted return [94 An obtuse angle is bigher than 90°]
 //-------------------------##-----------------------------------
 /* #### 4. What's the weather?
 * Use a ternary operator to complete this task. Create a function named "_isRaining_". If true, print "_wet day - you need an umbrella_". If false, print "_dry day - leave your umbrella at home_". */
