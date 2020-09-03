@@ -3,17 +3,6 @@
 // 1.
 // Create a function named "_nameOfCity_". If a string begins with "_Los_" or "_New_", then print the full string. If not, print "_The city name does not begin with Los or New_". Be careful of case sensitivity.
 
-function nameOfCity (cityName){
-    firstLetter=cityName.substring(0,3);
-    firstLetter=firstLetter.toUpperCase();
-    if((firstLetter==="LOS")||(firstLetter==="NEW")){
-        return cityName.toUpperCase();
-    }else{
-        return "The city name does not begin with Los or New";
-    }
-     }
-    
-     console.log(nameOfCity("New world"));
 
 // 2.
 
