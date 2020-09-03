@@ -172,6 +172,7 @@ geometricalSequence();
 
 
 
+
 console.log("")
 console.log("Loops QUESTION 2:  Multiples")
 
@@ -202,6 +203,8 @@ multiplesOfThree();
 
 
 
+
+
 console.log("")
 console.log("Math QUESTION 1: You've got the power")
 
@@ -222,6 +225,8 @@ function powerOf(powerInteger) {
 }
 powerOf(3);     // 3 to the power of itself is 27!
 powerOf(4);     // 4 to the power of itself is 256!
+
+
 
 
 
