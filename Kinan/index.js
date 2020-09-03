@@ -134,5 +134,5 @@ console.log(`there is ${count} vowel character in this word`);
 }
 _vowelCount_("Hello");   //there is 2 vowel character in this word
 
-/*  // DO NOT EDIT below this line - This will result in an automatic fail
-module.exports = {nameOfCity, isDivisible, missingAngle, rainingToday, geometricalSequence, multiplesOfThree, powerOf, vowelCount}; */
+  // DO NOT EDIT below this line - This will result in an automatic fail
+module.exports = {nameOfCity, isDivisible, missingAngle, rainingToday, geometricalSequence, multiplesOfThree, powerOf, vowelCount};
